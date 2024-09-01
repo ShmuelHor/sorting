@@ -1,0 +1,14 @@
+C:\Users\shmue\source\repos\sorting1\sorting1\bin\Debug\net8.0\sorting1.exe
+C:\Users\shmue\source\repos\sorting1\sorting1\bin\Debug\net8.0\sorting1.deps.json
+C:\Users\shmue\source\repos\sorting1\sorting1\bin\Debug\net8.0\sorting1.runtimeconfig.json
+C:\Users\shmue\source\repos\sorting1\sorting1\bin\Debug\net8.0\sorting1.dll
+C:\Users\shmue\source\repos\sorting1\sorting1\bin\Debug\net8.0\sorting1.pdb
+C:\Users\shmue\source\repos\sorting1\sorting1\obj\Debug\net8.0\sorting1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shmue\source\repos\sorting1\sorting1\obj\Debug\net8.0\sorting1.AssemblyInfoInputs.cache
+C:\Users\shmue\source\repos\sorting1\sorting1\obj\Debug\net8.0\sorting1.AssemblyInfo.cs
+C:\Users\shmue\source\repos\sorting1\sorting1\obj\Debug\net8.0\sorting1.csproj.CoreCompileInputs.cache
+C:\Users\shmue\source\repos\sorting1\sorting1\obj\Debug\net8.0\sorting1.dll
+C:\Users\shmue\source\repos\sorting1\sorting1\obj\Debug\net8.0\refint\sorting1.dll
+C:\Users\shmue\source\repos\sorting1\sorting1\obj\Debug\net8.0\sorting1.pdb
+C:\Users\shmue\source\repos\sorting1\sorting1\obj\Debug\net8.0\sorting1.genruntimeconfig.cache
+C:\Users\shmue\source\repos\sorting1\sorting1\obj\Debug\net8.0\ref\sorting1.dll
